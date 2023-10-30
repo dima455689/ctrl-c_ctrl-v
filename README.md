@@ -5,6 +5,6 @@
  <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=uchi+kuzbass)](https://git.io/typing-svg)
 ![Визуал (1)](https://github.com/dima455689/ctrl-c_ctrl-v/assets/149286404/3e76ea8d-2730-48da-bd55-1ffe3718a86c)
-# Hi there, I'm [dima](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+# привет, я [Дима](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### мы написали сайт
 
