@@ -1,4 +1,4 @@
-<h1 align="center">привет<a href="https://dima455689.github.io/glavnaia/" target="_blank"> вернуться назад</a> 
+<h1 align="center"><a href="https://dima455689.github.io/glavnaia/" target="_blank"> вернуться назад</a> 
 <img src="https://dima455689.github.io/ctrl-c_ctrl-v/" height="32"/></h1>
 
  <!---Пример кода-->
